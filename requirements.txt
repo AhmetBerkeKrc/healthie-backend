@@ -7,5 +7,5 @@ faiss-cpu[all]
 numpy[all]
 gspread[all]
 google-auth[all]
-pandas[all]
-pydantic[all]
+pandas
+pydantic
