@@ -1,1 +1,12 @@
 fastapi[all]
+langchain_openai
+langchain
+sentence-transformers
+datasets
+faiss-cpu
+numpy
+gspread
+google-auth
+pandas
+pydantic
+smtplib
